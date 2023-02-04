@@ -2,4 +2,4 @@
 
 # want to play the game?
 
-## [click to play] (https://master--vermillion-squirrel-6e0428.netlify.app/)
+## [click to play](https://master--vermillion-squirrel-6e0428.netlify.app/)
